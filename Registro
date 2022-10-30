@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro</title>
+<body>
+    <footer>
+        <h2>Registro</h2>
+        <form action="" method="">
+            <ul>
+            <li>
+            <label for="">
+                Nombre
+                <input type="text">
+            </label>
+        </ul>
+        </li>
+            <ul>
+            <li>
+            <label for="">
+                Apellido 
+                <input type="text">
+            </label>
+        </ul>
+        </li>
+        <ul>
+        <li>
+            <label for="email">
+                Correo📧
+                <input type="email">
+            </label>
+        </ul>
+    </il>
+    <ul>
+    <li>
+            <label for="">
+                Fecha📅
+                <input type="date">
+            </label>
+        </ul>
+    </li>
+    <ul>
+    <li>
+            <label for="tiempo">
+                Tiempo⏲
+                <input type="time">
+            </label>
+        </ul>
+    </li>
+    <ul>
+    <li>
+            <label for="Fecha y Hora">
+                Fecha y Hora🗓🕤
+                <input type="datetime-local">
+            </label>
+        </ul>
+    </li>
+    <ul>
+    <li>
+            <label for="mes">
+                Mes📅
+                <input type="month">
+            </label>
+        </ul>
+    </li>
+    <ul>
+    <li>
+            <label for="Numero">
+                Numero1️⃣
+                <input type="number"> 
+            </label>
+        </ul>
+    </li>
+    <ul>
+    <li>
+            <label for="telefono">
+                Telefono📞
+                <input type="tel">
+            </label>
+        </ul>
+    </li>
+    <ul>
+    <li>
+            <label for="Busqueda">
+                Buscar🔎
+                <input type="search">
+            </label>
+        </ul>
+    </li>
+    <ul>
+    <li>
+            <label for="Color">
+                Color🟤
+                <input type="color">
+            </label>
+        </ul>
+    </li>
+            <input type="submit" value="Enviar">
+    </footer>
+</body>
+ </html>
